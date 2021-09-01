@@ -29,4 +29,13 @@
 
 ***
 
+#### 3rd Day of School: 01.09.2021
+
+**PROGRAMMING**
+- Okay, now we're talking. We dived into HTML. Basic structure, lists, Navigationbar, these kinda things. Not this new for me, tbh, but I did consolidate my previous knowledge. Bottom line: You'll never stop learning.
+
+**SOFT SKILLS**
+- This is the third day of school, and also the third day of rising by lifting others. I could not tell you, how awesome this feeling is. You have to discover it by yourself. If there's someone in class needing a helping hand, I'm always there. As well as the other attendees are there for me, too. The smile on Leonels face, when I was able to fix his bug was priceless and such a pleasure, that he mentioned me in the Recap at the end of the day. I'll sleep very good tonight. Indeed.
+
+
 **Enough for today, it is getting late.. see y'all tomorrow.**
